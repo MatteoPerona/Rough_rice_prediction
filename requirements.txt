@@ -1,0 +1,9 @@
+pip install os
+pip install numpy
+pip install matplotlib
+pip install missingno
+pip install seaborn
+pip install tensorflow
+pip install keras
+pip install pandas
+pip install sklearn
