@@ -60,6 +60,6 @@ Due to complications with the gathering and processing data of the Southeast Asi
  2 Install prefered Notebook (Jupyter notebook, Google colab or other)
 
    ```
-      $ pip requirements.txt
+      $ pip install requirements.txt
    ```
  
