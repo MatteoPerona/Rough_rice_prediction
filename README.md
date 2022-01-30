@@ -56,5 +56,10 @@ Due to complications with the gathering and processing data of the Southeast Asi
   - 4 Look at the results
 
 <h2>To install</h2>
-  - 1 Install Python x3.6
-  - 2 Install prefered Notebook (Jupyter notebook, Google colab or other)
+ 1 Install Python x3.6 </br>
+ 2 Install prefered Notebook (Jupyter notebook, Google colab or other)
+
+   ```
+      $ pip requirements.txt
+   ```
+ 
