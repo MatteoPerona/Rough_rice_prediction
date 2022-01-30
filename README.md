@@ -42,5 +42,19 @@ Due to complications with the gathering and processing data of the Southeast Asi
   - Crude Oil price
 
 <h2>To execute</h2>
-eee
-eee
+
+
+- To execute Moving Averages Prediction
+  - 1 Install libraries and essentials (Look at Installation)
+  - 2 Execute "Univariate_EDA_Rice_Price.ipynb" from EDA folder and export the univariate data
+  - 3 Execute "MovingAverages.ipynb" from Statistical_Methods folder
+  - 4 Look at the results
+- To execute LSTM multivariable prediction
+  - 1 Install libraries and essentials (Look at Installation)
+  - 2 Execute "Multivariate_EDA_Rice_Price.ipynb" and export the univariate data
+  - 3 Execute "LSTM_Rice_Prediction.ipynb"
+  - 4 Look at the results
+
+<h2>To install</h2>
+  - 1 Install Python x3.6
+  - 2 Install prefered Notebook (Jupyter notebook, Google colab or other)
