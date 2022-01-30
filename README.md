@@ -41,3 +41,6 @@ Due to complications with the gathering and processing data of the Southeast Asi
   - Meat ETF´s
   - Crude Oil price
 
+<h2>To execute</h2>
+eee
+eee
